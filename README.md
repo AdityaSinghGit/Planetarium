@@ -1,4 +1,4 @@
-# planetarium
+# Planetarium
 
 Planetarium is a mobile application that provides information about all the planets in our solar system. It involves understanding how planetary systems work with the help of images and a beautiful UI.
 
